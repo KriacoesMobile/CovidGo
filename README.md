@@ -1,0 +1,2 @@
+# CovidGo
+Initial repository
